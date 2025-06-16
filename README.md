@@ -2,7 +2,7 @@
 
 ---
 
-````markdown
+
 # 💯 100 Days of AlgoAvengers – [Your Name]
 
 Welcome to my personal journey through the **100 Days of AlgoAvengers** challenge! 🚀  
