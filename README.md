@@ -1,94 +1,118 @@
+# 💯 100 Days of AlgoAvengers
 
+## 👨‍💻 Join the Ultimate Code + Career Challenge
 
----
-
-
-# 💯 100 Days of AlgoAvengers – [Your Name]
-
-Welcome to my personal journey through the **100 Days of AlgoAvengers** challenge! 🚀  
-This repo logs my daily/weekly progress in DSA, networking, and personal growth.
+Welcome to **AlgoAvengers** – a mission-driven tech community where coders, developers, and learners unite to upgrade their skills, build networks, and gain real-world visibility. Whether you're a complete beginner or already a pro, this challenge gives you the structure, motivation, and opportunities to grow exponentially.
 
 ---
 
-## 🔥 About the Challenge
+## 🚀 What is the 100 Days of AlgoAvengers Challenge?
 
-**AlgoAvengers** is a tech community initiative where we commit to consistently:
-- Solve DSA problems (based on [Striver’s A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/))
-- Connect and learn from professionals on LinkedIn
-- Share learnings publicly (to build personal brand + proof of work)
+The **100 Days of AlgoAvengers** challenge is a structured 100-day journey to:
+
+* 💪 Strengthen DSA and problem-solving skills
+* 👥 Build a strong LinkedIn professional network
+* 📋 Maintain a visible GitHub record of your work
+* 📊 Gain recognition, referrals, mentorship, and rewards
 
 ---
 
-## 🗓️ Weekly Logs
+## 🔄 Weekly Task Breakdown
 
-> Each week includes:
-> - 🧠 DSA Problems Solved
-> - 📝 Learnings or Reflections
-> - 📢 LinkedIn Post Links
+Every week, here’s what you commit to doing:
 
-### ✅ Week 01 (dd-mm-yyyy to dd-mm-yyyy)
-- [x] Problem 1 - Title + link + solution (or markdown file)
-- [x] Problem 2 - ...
-- [x] Problem 3 - ...
-- 🔗 LinkedIn Post: [Week 1 Reflections](#)
-- 🧠 Learnings: _What I improved / faced this week_
+* ✅ Solve **5 DSA problems** from the [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) (choose your own level)
+* 💼 Connect with **10 new professionals on LinkedIn** (seek guidance, referrals, etc.)
+* 📣 Post learnings or reflections on **LinkedIn** using our hashtags and tagging us
+* 📝 Submit your weekly progress via a **Google Form** *(or tag us on posts so we can track)*
 
-<details>
-<summary>Show Folder Structure</summary>
+---
+
+## 🎁 What Do You Get?
+
+* 🏆 Featured in the **Wall of Fame (`winners.md`)**
+* 👨‍💼 **Mentorship & referrals** from professionals
+* 💰 Eligible for **cash prizes and giveaways** (announced weekly)
+* 📢 Appear on the **official AlgoAvengers LinkedIn Page**
+* 📃 Strong **proof of work** for job interviews
+
+---
+
+## 🛠️ How to Get Started
+
+### Step 1: Create Your GitHub Repo
+
+Name your repo like:
+
+```
+100-days-of-algoavengers-[your-name]
+```
+
+### Step 2: Log Your Weekly Progress
+
+Create folders like:
 
 ```bash
-Week-01/
-├── problem1.md
-├── problem2.md
-└── reflections.md
-````
-
-</details>
-
----
-
-## 📍 Progress Tracker
-
-| Week | DSA Problems Solved | LinkedIn Post | GitHub Commit |
-| ---- | ------------------- | ------------- | ------------- |
-| 01   | ✅                   | ✅             | ✅             |
-| 02   | ⬜️                  | ⬜️            | ⬜️            |
-| ...  | ...                 | ...           | ...           |
-
----
-
-## 📢 Social Proof
-
-To participate officially:
-
-* Use **#100DaysOfAlgoAvengers**, **#CodeWithAK**, and **#AlgoAvengers**
-* Tag `@algo-avengers` and `@iakmeena` in all LinkedIn posts
-* Share your GitHub repo link in your post
-* Push updates to GitHub every **Saturday night**
-* Submit weekly progress via Google Form (shared by team)
-
----
-
-## 🏆 Rewards You Can Earn
-
-* Get featured on the official **AlgoAvengers GitHub Wall of Fame**
-* Win **cash prizes**, **referrals**, and **1:1 mentorship**
-* Build real **proof of work** that you can showcase in interviews
-
----
-
-## 🚀 Connect With Me
-
-* 🔗 [LinkedIn](#)
-* 📁 [My Resume/Portfolio](#)
-* ✉️ [Email](#)
-
----
-
-> “Consistency beats intensity. Let’s build greatness one commit at a time.”
-
+📁 Week-01
+👉 problem1.md
+👉 problem2.md
+👉 reflections.md
 ```
 
+Include problem explanations, screenshots, and learnings.
+
+### Step 3: Weekly Commit + Share
+
+* ⬆️ Push progress to GitHub every **Saturday night**
+* 📈 Post your week summary on **LinkedIn**
+* 📝 Submit your entry through the **Google Form** (shared weekly)
+
+### Step 4: Be Social & Stay Active
+
+* Use: `#100DaysOfAlgoAvengers` `#CodeWithAK` `#AlgoAvengers`
+* Tag: [`@algo-avengers`](https://www.linkedin.com/company/algoavengers/) & [`@iakmeena`](https://www.linkedin.com/in/iakmeena/)
+* Cheer others and engage with their posts too!
+
 ---
 
-```
+## 💡 Why These Tasks?
+
+We chose these for holistic tech growth:
+
+| Focus Area         | Task                             |
+| ------------------ | -------------------------------- |
+| 💻 Technical Depth | DSA problems from curated sheets |
+| 👥 Networking      | Connecting on LinkedIn           |
+| 📢 Public Profile  | Weekly LinkedIn reflections      |
+| 📂 Proof of Work   | Committing on GitHub             |
+| ⏳ Consistency      | Weekly check-ins and public logs |
+
+If you’re already advanced, take on hard problems, build dev projects, or contribute to open source.
+
+---
+
+## 🧙️ Wall of Fame (winners.md)
+
+We maintain a public `winners.md` file with:
+
+* 👤 Name
+* 🔗 GitHub challenge repo
+* 🔗 LinkedIn profile
+* 🗓️ Challenge start & end date
+* 🌟 Achievements and badges
+
+---
+
+## 📣 Join the Movement
+
+* 📢 Telegram: [Join our Community](https://t.me/Free_Courses_N_Internships/1)
+* 📧 Email: [hello.algoavengers@gmail.com](mailto:hello.algoavengers@gmail.com)
+* 📚 GitHub: [AlgoAvengers](https://github.com/AlgoAvengers)
+
+---
+
+> ⚡️ Let's build the future — one day, one commit at a time.
+>
+> *#100DaysOfAlgoAvengers • #CodeWithAK • #AlgoAvengers*
+
+---
